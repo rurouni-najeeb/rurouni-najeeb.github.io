@@ -45,8 +45,6 @@ The dataset can be downloaded from the Kaggle website. The dataset (also known a
 * samplesubmission.csv : This file instructing the format in which the data is to be submitted.
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
 ### Knowing the Data
 
 The data consists of series of rows and columns wherein each row corresponds to an image  and each column corresponds to a feature (or pixel). An Image is a row vector having dimensions of 1×784 i.e. a single image with 28×28 dimensions.
