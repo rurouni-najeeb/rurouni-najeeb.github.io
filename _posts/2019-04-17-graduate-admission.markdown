@@ -36,4 +36,4 @@ This section can be abbreviated simply by putting in the principle of **E(xplore
 
 ## Section 2: GRE, TOEFL and the Dawn of Applications
 
-[Game of Thrones, Battle of Bastards](https://media.giphy.com/media/3og0IHyZMxZNkNOWT6/giphy.gif)
+![Game of Thrones, Battle of Bastards](https://media.giphy.com/media/3og0IHyZMxZNkNOWT6/giphy.gif)
