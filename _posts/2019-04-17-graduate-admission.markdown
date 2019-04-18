@@ -51,26 +51,21 @@ GRE is one of the standardized tests that most of the universities abroad asks f
 GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Reasoning and Quantitative Reasoning. The cost of the registration for the exam is $150 but you can find the exact price according to their official website [here](https://www.ets.org/gre). Keep in the mind that the official website is the best source of information regarding the pattern of examination so I would recommend you to head [here](https://www.ets.org/gre/revised_general/about/content/) if you want to learn more. The preparation of GRE resolves around the three principles:
 
 1. Getting to know the paper
-
   As you might have heard that GRE is not a rather tough examination which tests your subject specific knowledge but rather a it rather assesses your fundamental reasoning and interpretation skills. Given that, the quantitative aptitude paper revolves around simple (high school) mathematical concepts and the verbal reasoning revolves around english language skills and its underlying *(mostly cryptic)* vocabulary. Giving yourself ample time to understand the paper as you start going through the underlying subject matter is important for any exam but more so for GRE. The pattern of how and what type of questions are asked and how the solution as well as the question is presented can help in getting a fair idea about how to mentally prepare for the exam. Even if you are pretty much comfortable with the subject matter of GRE, it will be difficult to score in the above said sections if you take a whole lot of time deciphering how to answer. So make yourself comfortable with how questions are presented and whats the best way to reason about the solution for specific questions.
 
 2. Procuring the study material
-
   The next thing for preparation is procuring the right study material and there are a bundle of choices that can be made in that. The best way to go around is to get materials from coaching institutes or buy them online so that you have enough questions to practice around. The most important part is to go through the [ETS workbooks](https://www.ets.org/gre/revised_general/prepare/?WT.ac=gre_prepare_170731) and make sure you understand the latest pattern of questions. I personally did practice from the following four sources:
-
   * Jamboree practice books for both verbal and quant
   * Manhattan 5lb book for Reading Comprehensions
   * ETS Official Guide
   
   Another important bit is to get sufficiently acquainted with the exam scenario so as to mould your thinking ability in that direction. For this, I would recommend to give as many practice tests as possible. Effectively gauging performance helps in improving through areas where one is weak rather than blindly practicing a bunch of verbal questions and rote learning the vocabulary *(that you need to do nonetheless)*. I used these four resources to practice tests:
-
   * Kaplan Tests: Easy but good for starting out.
   * Jamboree Tests: More than enough difficult so difficult to gauge.
   * ETS Official Tests: There are 2 sets of tests. Give one a month and a half before the actual exam date and give one a week before the exam to effectively gauge your performance.
   * Manhattan Test: Good practice in general.
 
-3. What about Analytical Writing and Assesment?
-  
+3. What about Analytical Writing and Assesment?  
   Analytical Writing and Assesment, abbreviated as AWA, should be given the least effort when preparing. But said that you MUST NOT take it lightly. Even if you got a perfect score in Quant and Verbal and got a really poor score in AWA, you might have to give the test again. Most of the institutions have a minimum score for AWA and getting a score above or equal to 3.5 is enough to qualify for most of the institutions. To prepare for AWA, read as much example questions and responses as you can and try to imitate their style when framing your own response. Whenever you are giving the full test as part of your preparation, make sure you also give AWA with it and analyse the written response by yourself. It will help you get into comfortable in dealing with AWA during the start of the test whilst also not spending too much of energy on this task.
 
 In the end, GRE is all about practice. The more you do that and the more you have prior experience with reading comprehension, the better you can score in the exam. I would advise to sufficiently give time practicing quant as it can help you score better rather than dilly-dallying on verbal.
