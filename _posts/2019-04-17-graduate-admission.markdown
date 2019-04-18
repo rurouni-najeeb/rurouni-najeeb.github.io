@@ -48,9 +48,9 @@ comments: true
 
 ## Section 2: GRE, TOEFL and the Dawn of Applications
 
-<span style="align-items: center;">
+<p align="center">
   ![Game of Thrones, Battle of Bastards](https://media.giphy.com/media/3og0IHyZMxZNkNOWT6/giphy.gif)
-</span>
+</p>
 
 <div>
   Ideally you should start your preparation for the standardized tests a year and a half before joining the program of choice at your preferred university. Say you are applying for the Fall/Winter Semester (August - October) of 2018 at the university, then you should start preparing for the standardized tests during April-May of 2017 so that you have ample time to prepare and give these test as well as be ready (comfortably) with the scores as and when the application period starts. In the subsequent sections, I would talk a little about the two standardized tests, namely Graduate Record Examination(GRE) and Test for English as a Foreign Language(TOEFL) and a bit about how to approach the application procedure.
