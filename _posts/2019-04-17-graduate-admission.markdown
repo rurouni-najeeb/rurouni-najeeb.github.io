@@ -61,7 +61,9 @@ GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Rea
     * Jamboree practice books for both verbal and quant
     * Manhattan 5lb book for Reading Comprehensions
     * ETS Official Guide
-    Another important bit is to get sufficiently acquainted with the exam scenario so as to mould your thinking ability in that direction. For this, I would recommend to give as many practice tests as possible. Effectively gauging performance helps in improving through areas where one is weak rather than blindly practicing a bunch of verbal questions and rote learning the vocabulary *(that you need to do nonetheless)*. I used these four resources to practice tests:
+  
+  Another important bit is to get sufficiently acquainted with the exam scenario so as to mould your thinking ability in that direction. For this, I would recommend to give as many practice tests as possible. Effectively gauging performance helps in improving through areas where one is weak rather than blindly practicing a bunch of verbal questions and rote learning the vocabulary *(that you need to do nonetheless)*. I used these four resources to practice tests:
+  
     * Kaplan Tests: Easy but good for starting out.
     * Jamboree Tests: More than enough difficult so difficult to gauge.
     * ETS Official Tests: There are 2 sets of tests. Give one a month and a half before the actual exam date and give one a week before the exam to effectively gauge your performance.
