@@ -24,11 +24,11 @@ There can be quite a lot of reasons why you would want to apply for a higher edu
 
 Subsequently, I decided to look out for what it takes to get yourself in a position to start applying for higher education abroad and my observations can be distilled into two main points:
 
-* Decide on what you want to pursue when you graduate
+* **Decide on what you want to pursue when you graduate**
 
   Deciding early on what you want to pursue when you graduate can be helpful when you go on developing your Resume and Statement of Purpose *(more about that later)*. Having said that, it is not a requirement that once you decided what you want to pursue you cannot change your field of study. Interests change even when you are completely focussed on something at hand *(especially during your undergraduate timeframe when you don't have a lot of experience with the field)*. So let yourself wander a bit but make sure when you pick up something to work upon, make it see the light of the day and don't leave it dangling. Everything that you pick up might look fairly flowery at the beginning *(akin to typing Hello World in your newly learned programming language)* but there exists a steep learning curve. Making sure sticking to your learning during that steep curve will not even help you make something out of it and not waste time but will also help you when you find something else to work upon *(as you find new opportunities in other fields and want to pursue them)*. I made mistakes trying to go through a whole lot of things during my sophomore year and not sticking to learning enough and that wasted a whole lot of my time that could have been put to some good use.
 
-* Keep building stuff ... even when you feel like reinventing the wheel
+* **Keep building stuff ... even when you feel like reinventing the wheel**
 
   As a general rule of thumb when applying for great institutions abroad is to have a motivation that makes you pursue your chosen field of study and the ability to express it with your actions. Every institution would ask you to either send them a Statement of Purspose (SoP) or to send them an essay delineating your motivation and past experiences. The best way to tackle this *rather intimidating* piece of text is to get yourself building stuff. If you are pursuing a computer science degress *(as I was)*, you might want to go around building interesting web/mobile applications that tackle some problem to better showcase your work or if you are from a field where you can't build stuff as easily as a computer programmer, you might just write out what you are learning new. Apart from giving you a solid understanding of the subject matter, it will be a great point of discussing your motivation in the SoP and might also lead to your work getting recognized. Perhaps, it might also give you an upper hand when it comes to getting opportunities.
 
@@ -50,11 +50,11 @@ GRE is one of the standardized tests that most of the universities abroad asks f
 
 GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Reasoning and Quantitative Reasoning. The cost of the registration for the exam is $150 but you can find the exact price according to their official website [here](https://www.ets.org/gre). Keep in the mind that the official website is the best source of information regarding the pattern of examination so I would recommend you to head [here](https://www.ets.org/gre/revised_general/about/content/) if you want to learn more. The preparation of GRE resolves around the three principles:
 
-1. Getting to know the paper
+1. **Getting to know the paper**
    
    As you might have heard that GRE is not a rather tough examination which tests your subject specific knowledge but rather a it rather assesses your fundamental reasoning and interpretation skills. Given that, the quantitative aptitude paper revolves around simple (high school) mathematical concepts and the verbal reasoning revolves around english language skills and its underlying *(mostly cryptic)* vocabulary. Giving yourself ample time to understand the paper as you start going through the underlying subject matter is important for any exam but more so for GRE. The pattern of how and what type of questions are asked and how the solution as well as the question is presented can help in getting a fair idea about how to mentally prepare for the exam. Even if you are pretty much comfortable with the subject matter of GRE, it will be difficult to score in the above said sections if you take a whole lot of time deciphering how to answer. So make yourself comfortable with how questions are presented and whats the best way to reason about the solution for specific questions.
 
-2. Procuring the study material
+2. **Procuring the study material**
    
    The next thing for preparation is procuring the right study material and there are a bundle of choices that can be made in that. The best way to go around is to get materials from coaching institutes or buy them online so that you have enough questions to practice around. The most important part is to go through the [ETS workbooks](https://www.ets.org/gre/revised_general/prepare/?WT.ac=gre_prepare_170731) and make sure you understand the latest pattern of questions. I personally did practice from the following four sources:
    * Jamboree practice books for both verbal and quant
@@ -66,7 +66,7 @@ GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Rea
    * ETS Official Tests: There are 2 sets of tests. Give one a month and a half before the actual exam date and give one a week before the exam to effectively gauge your performance.
    * Manhattan Test: Good practice in general.
 
-3. What about Analytical Writing and Assesment?  
+3. **What about Analytical Writing and Assesment?**  
    
    Analytical Writing and Assesment, abbreviated as AWA, should be given the least effort when preparing. But said that you MUST NOT take it lightly. Even if you got a perfect score in Quant and Verbal and got a really poor score in AWA, you might have to give the test again. Most of the institutions have a minimum score for AWA and getting a score above or equal to 3.5 is enough to qualify for most of the institutions. To prepare for AWA, read as much example questions and responses as you can and try to imitate their style when framing your own response. Whenever you are giving the full test as part of your preparation, make sure you also give AWA with it and analyse the written response by yourself. It will help you get into comfortable in dealing with AWA during the start of the test whilst also not spending too much of energy on this task.
 
@@ -80,12 +80,20 @@ ToEFL focusses solely on English and contains four sections testing speaking, wr
 
 The application procedure varies greatly from university to university and the country where univeresity exists. On the contrary, there exists some generalisations among the application procedure which can be prepared in advance so that one can have a smooth application procedure. It is highly recommended to keep checking out the deadlines for universities by going to their admission page and keep a checklist of what documents need to be sent and how. In this subsection, I will try and delineate some general components of the application procedure which can give you an idea of what your prospective universities can ask you for.
 
-  1. Test Scores:
+  1. **Test Scores**:
+     
      Test Scores for standardized exams such as GRE and ToEFL/IELTS are almost exclusively asked by all the institutions in North America. For institutions in Europe, however, it might depend on the university and the course you are applying for. Almost all of the institutions will ask for ToEFL/IELTS score as a fulfillment of language requirements. The scores are sent electronically after the examination is finished. You get to send scores to 4 universities for free in GRE and ToEFL (as soon as the test ends for GRE and during registration for ToEFL) and sending the rest of scores require you to submit an additional fee of $27 and $20 for GRE and ToEFL respectively. Make sure to note the institution code by browsing the university admission webpage when sending your scores to avoid any mistake.
 
-  2. Letters of Recommendation:
+  2. **Letters of Recommendation**:
+     
      Letters of Recommendations, abbreviated as LoR, are one of the most important and most common part of the application university. These LoRs should be given from either your academic advisors (professors or research advisor) or can be given by someone from your organisation if you are a working professional. Make sure to check from the university website what type of Letter of Recommendation they require. A nice combination is to get two LoRs from your university professors and an LoR from industry professional/research advisor allowing you to give enough variety of recommendations from both academia and industry. Who you get your LoRs from makes a lot of difference. If someone who stands tall in the academic community gives you an LoR, then it will make substantial impact on your application procedure. Make sure you have cultivated a relationship with whom you are being recommended and have done either some projects or worked directly under them. Mostly, LoRs are sent electronically and the professor to whom you have submitted as a recommender will receive a link to directly upload an LoR in PDF/Word format. In addition, the recommender might also have to fill in a questionnaire having behavioral questions regarding the recommendee.
 
-  3. Statement of Purpose:
-     //TODO
+  3. **Statement of Purpose**:
+     
+     Statement of Purpose has the same level of importance as LoRs and acts as a motivation for the study program that you are applying to. Make sure that you give enough time in framing and writing the Statement of Purpose and get it thoroughly checked so as to make it free from any grammatical errors, incorrect semantical and syntactical structures and sub-standard word choice. Writing a SoP is a personal matter and depends from person to person. There are a couple of things that one should keep in mind to effectively transfer the thoughts in an effective manner onto the paper
+     * Make sure that the SoP is neither too short and nor too long. Most of the institutions might give the guidelines for writing down the SoP. Make sure that you follow the number of words and the length of the SoP. Writing down an SoP in a verbose manner makes it difficult for the person assessing it and they might end up considering it pedestrian.
+     * The SoP should contain the motivation for why you are choosing that specific program at the university and how you got to be motivated to pursue that particular area of study. You can delineate the different paths that you took during your undergraduate degree and how they framed your thought process into applying to the specific program at the university.
+     * The SoP must follow the formal rules of english grammar. Remember that the statement is read by people of the admission committee and although it is not a problem to add a hint of humor sometimes but make sure it does not cause offence or is in poor taste.
+     * 
+
 
