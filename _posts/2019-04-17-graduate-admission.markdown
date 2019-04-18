@@ -7,7 +7,7 @@ date:   2019-04-17 18:15:11 +0100
 categories: jekyll update
 comments: true
 ---
-## What this blog is about?
+## What this blog post is about?
 Graduate Admission Process is a daunting task requiring a great deal of effort, patience and sometimes a whole lot of money. The money part is not always true and there are always niches where you can go about saving a whole lot. Sometimes, if you are smart enough, you can practically get everything done with the smallest amount of investment as possible. My story is pretty much the laterally inverted version of that but I hope that it can act as a subtle feedback mechanism for anyone who is trying to throw open doors of educating themselves abroad. This is an elaborate post regarding how and when I started to think about getting an education abroad, how I prepared myself to try get into some of the great colleges and how I failed, my expectations and the real world equivalent of them and how I chose when there were stark choices available, both financially and opportunity wise. I hope this post will help you out to make an educated decision and put your priorities in order when you take *(most probably)* the most investing decision of life. If you want to know more about me, where to reach out and what I do [click here](https://najeeb97khan.github.io/about/)!
 
 
@@ -57,6 +57,7 @@ GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Rea
 2. Procuring the study material
 
   The next thing for preparation is procuring the right study material and there are a bundle of choices that can be made in that. The best way to go around is to get materials from coaching institutes or buy them online so that you have enough questions to practice around. The most important part is to go through the [ETS workbooks](https://www.ets.org/gre/revised_general/prepare/?WT.ac=gre_prepare_170731) and make sure you understand the latest pattern of questions. I personally did practice from the following four sources:
+
     * Jamboree practice books for both verbal and quant
     * Manhattan 5lb book for Reading Comprehensions
     * ETS Official Guide
@@ -66,4 +67,26 @@ GRE consists of three parts, namely, Analytical Writing and Analysis, Verbal Rea
     * ETS Official Tests: There are 2 sets of tests. Give one a month and a half before the actual exam date and give one a week before the exam to effectively gauge your performance.
     * Manhattan Test: Good practice in general.
 
+3. What about Analytical Writing and Assesment?
+  
+  Analytical Writing and Assesment, abbreviated as AWA, should be given the least effort when preparing. But said that you MUST NOT take it lightly. Even if you got a perfect score in Quant and Verbal and got a really poor score in AWA, you might have to give the test again. Most of the institutions have a minimum score for AWA and getting a score above or equal to 3.5 is enough to qualify for most of the institutions. To prepare for AWA, read as much example questions and responses as you can and try to imitate their style when framing your own response. Whenever you are giving the full test as part of your preparation, make sure you also give AWA with it and analyse the written response by yourself. It will help you get into comfortable in dealing with AWA during the start of the test whilst also not spending too much of energy on this task.
+
 In the end, GRE is all about practice. The more you do that and the more you have prior experience with reading comprehension, the better you can score in the exam. I would advise to sufficiently give time practicing quant as it can help you score better rather than dilly-dallying on verbal.
+
+### Section 2.2 Test for English as a Foreign Language (ToEFL)
+
+ToEFL focusses solely on English and contains four sections testing speaking, writing, reading and listening skills of the test taker. If you have already prepared for GRE and gone through that then it is relatively easier to get a good score in ToEFL. The tests does not comprise of rather cryptic vocabulary as you might find in GRE. The vocabulary and text is simple and mostly straightforward. The easiest way to prepare for ToEFL is to give sample tests which can be purchased from a vendor online or procured from coaching institutes. There is no need to go through excessive vocabulary for this test. Giving ToEFL official test (if I remember right it is a set of 10 tests) will be enough to get you a score above 90 and perhaps even above 100. Remember ToEFL exists as a formal requirement for many institutions abroad and most of them ask for a base score between 90 - 100 (depending on the country where you are applying). The cost of test is around $120 so make sure that you prepare enough that you don't need to give it more than once. The results of ToEFL arrive through E-mail in under 15 days so make sure that there is ample time between the deadline of applications and the arrival of ToEFL results. You can find most of the information on official ToEFL website [here](https://www.ets.org/toefl)
+
+### Section 2.3 The application procedure
+
+The application procedure varies greatly from university to university and the country where univeresity exists. On the contrary, there exists some generalisations among the application procedure which can be prepared in advance so that one can have a smooth application procedure. It is highly recommended to keep checking out the deadlines for universities by going to their admission page and keep a checklist of what documents need to be sent and how. In this subsection, I will try and delineate some general components of the application procedure which can give you an idea of what your prospective universities can ask you for.
+
+  1. Test Scores:
+     Test Scores for standardized exams such as GRE and ToEFL/IELTS are almost exclusively asked by all the institutions in North America. For institutions in Europe, however, it might depend on the university and the course you are applying for. Almost all of the institutions will ask for ToEFL/IELTS score as a fulfillment of language requirements. The scores are sent electronically after the examination is finished. You get to send scores to 4 universities for free in GRE and ToEFL (as soon as the test ends for GRE and during registration for ToEFL) and sending the rest of scores require you to submit an additional fee of $27 and $20 for GRE and ToEFL respectively. Make sure to note the institution code by browsing the university admission webpage when sending your scores to avoid any mistake.
+
+  2. Letters of Recommendation:
+     Letters of Recommendations, abbreviated as LoR, are one of the most important and most common part of the application university. These LoRs should be given from either your academic advisors (professors or research advisor) or can be given by someone from your organisation if you are a working professional. Make sure to check from the university website what type of Letter of Recommendation they require. A nice combination is to get two LoRs from your university professors and an LoR from industry professional/research advisor allowing you to give enough variety of recommendations from both academia and industry. Who you get your LoRs from makes a lot of difference. If someone who stands tall in the academic community gives you an LoR, then it will make substantial impact on your application procedure. Make sure you have cultivated a relationship with whom you are being recommended and have done either some projects or worked directly under them. Mostly, LoRs are sent electronically and the professor to whom you have submitted as a recommender will receive a link to directly upload an LoR in PDF/Word format. In addition, the recommender might also have to fill in a questionnaire having behavioral questions regarding the recommendee.
+
+  3. Statement of Purpose:
+     //TODO
+
