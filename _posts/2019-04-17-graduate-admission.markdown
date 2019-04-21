@@ -116,7 +116,7 @@ The finances play a major part in getting a visa to the country where you will b
   * **The university has no tuition fee but you have no assistance**
      In most of the public institutions in Germany, it is the case that you don't have any semester-wise tuition fee that you need to submit as you move from semester to semester. However, it doesn't mean that you don't have to prove your ability to sustain yourself financially. For this, you might need to show proof of an amount that the country agrees upon. For example, for Germany, this amounts to showing 8620 Euros. Being a huge amount, make sure that you have enough time to approach banks, financial advisors, Non-Banking Financial Corporations (NBFCs) etc. to credit that much of amount in your bank account. The bank account might itself be in your name in country where the university is located, as is the case in Germany.
 
-  * **The university has no tuition fee and you assistance**
+  * **The university has no tuition fee and you have assistance**
      If you have obtained some kind of financial assistance such as a scholarship, then it is wiser to contact the consulate or go through their guidelines to find out what kind of document you need to present at the visa interview. Normally, it would be a letter from the organisation/university granting you assistance. Make sure to confirm from the consulate whether the scholarship/assistance is valid for the type of visa you are applying for.
 
   * **The university has tuition fee and you have no assistance**
