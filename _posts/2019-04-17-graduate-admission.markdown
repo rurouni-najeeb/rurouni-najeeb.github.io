@@ -7,7 +7,7 @@ date:   2019-04-17 18:15:11 +0100
 categories: jekyll update
 comments: true
 ---
-## What this blog post is about?
+## WIat this blog post is about?
 Graduate Admission Process is a daunting task requiring a great deal of effort, patience and sometimes a whole lot of money. The money part is not always true and there are always niches where you can go about saving a whole lot. Sometimes, if you are smart enough, you can practically get everything done with the smallest amount of investment as possible. My story is pretty much the laterally inverted version of that but I hope that it can act as a subtle feedback mechanism for anyone who is trying to throw open doors of educating themselves abroad. This is an elaborate post regarding how and when I started to think about getting an education abroad, how I prepared myself to try get into some of the great colleges and how I failed, my expectations and the real world equivalent of them and how I chose when there were stark choices available, both financially and opportunity wise. I hope this post will help you out to make an educated decision and put your priorities in order when you take *(most probably)* the most investing decision of life. If you want to know more about me, where to reach out and what I do [click here](https://najeeb97khan.github.io/about/)!
 
 
@@ -15,7 +15,7 @@ Graduate Admission Process is a daunting task requiring a great deal of effort, 
 Getting started with the graduate admission requires some thinking and investment of time and is not something that can be done in a fortnight. So make sure that before you go about thinking of getting an education abroad, you have ample time (probably \~1 year or so) to make educated decisions, apply for colleges, get feedback and go through the whole shebang of financial agreements and visa procedures. I have had my fair share of applying to colleges in the United States of America, Canada and Germany, so I would describe the timeframe according to the universities that I applied. The deadlines change depending on countries and even on universities so make sure to keep watching out respective universities' website for the most credible information.
 
 
-I wilide this blog post into *num_section* where each section will develop on sections preceding it. The sections arided on the basis of time frames *i.e.* when I started preparing for the exams relevant to the procedure, when I started applying, approximately when I made the decision and finally when I decided to leave. Feel free to skip a section if it is something that you already know. I will link the particular sections as I refer to them in the subsequent ones.
+I have divided this blog post into three where each section will develop on sections preceding it. The sections ar divided on the basis of time frames *i.e.* when I started preparing for the exams relevant to the procedure, when I started applying, approximately when I made the decision and finally when I decided to leave. Feel free to skip a section if it is something that you already know. I will link the particular sections as I refer to them in the subsequent ones.
 
 
 ## Section 1: The Sophomore Years of Undergraduate
@@ -92,8 +92,37 @@ The application procedure varies greatly from university to university and the c
      
      Statement of Purpose has the same level of importance as LoRs and acts as a motivation for the study program that you are applying to. Make sure that you give enough time in framing and writing the Statement of Purpose and get it thoroughly checked so as to make it free from any grammatical errors, incorrect semantical and syntactical structures and sub-standard word choice. Writing a SoP is a personal matter and depends from person to person. There are a couple of things that one should keep in mind to effectively transfer the thoughts in an effective manner onto the paper
      * Make sure that the SoP is neither too short and nor too long. Most of the institutions might give the guidelines for writing down the SoP. Make sure that you follow the number of words and the length of the SoP. Writing down an SoP in a verbose manner makes it difficult for the person assessing it and they might end up considering it pedestrian.
-     * The SoP should contain the motivation for why you are choosing that specific program at the university and how you got to be motivated to pursue that particular area of study. You can delineate the different paths that you took during your undergraduate degree and how they framed your thought process into applying to the specific program at the university.
-     * The SoP must follow the formal rules of english grammar. Remember that the statement is read by people of the admission committee and although it is not a problem to add a hint of humor sometimes but make sure it does not cause offence or is in poor taste.
-     * 
+     * The SoP should contain the theme of motivation for why you are choosing that specific program at the university and how you got to be motivated to pursue that particular area of study. You can delineate the different paths that you took during your undergraduate degree and how they framed your thought process into applying to the specific program at the university.
+     * The SoP must follow the formal rules of english grammar. Remember that the statement is read by people of the admission committee and although it is not a problem to add a hint of humor sometimes, but make sure it does not cause offence or is in poor taste.
+     * The statement should be divided in paragraphs and should not consist of a single block of text. Each paragraph should somewhat connect or leads onto another paragraph theme while delineating the purpose of the text.
 
+     You can find a lot of instructions about how to write a statement of purpose. It is advisable to go through one of them and have the idea about what and how to write in the back of your head. It is normal to make big revisions in your text as you go on writing about it in the first place and it is also normal to take a whole lot of time in completing it. If you don't know how to get started with the statement, look at some sample statements online to get an idea of how to start.
 
+  4. **Transcripts of Records**
+
+     A transcript of records is issued by the attending university containing the collection of subjects and their grades with the university stamp and seal.
+
+     The universities will ask to either send a hardcopy of your transcripts of records or scan and upload them on the admission portal. It is advisable to have 3-4 sets of transcripts with yourself with one unsealed set for the purpose of scanning. The sealed one should not be openend otherwise they might compromise the integrity of the transcripts and the university might not accept them as valid. Make sure to adhere to the guidelines provided by the university when you are sending your documents. Also make sure to keep in check that the documents should reach before the application deadline.
+
+## Section 3: The Date with the Consulate
+
+<p align="center">
+  <iframe src="https://giphy.com/embed/c6W48VCLPF1l8Uu18A" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-c6W48VCLPF1l8Uu18A">via GIPHY</a></p>
+</p>
+
+Getting your visa is the next step when you have been admitted and has made the choice to attend the university of choice. The visa documents might vary from country to country and would highly depend on what type of visa you need to attend the university. In this section, let us dwelve into the most fundamental part of the visa documents *i.e* getting your finances in order.
+
+The finances pay a whole major part in getting a visa to the country where you will be attending your university. Depending on the type of admission that you have secured there might exists four scenarios:
+  * **The university has no tuition fee but you have no assistance**
+     In most of the public institutions in Germany, it is so the case that you don't have any semester wise tuition fee that you need to submit as you move from semester to semester. However, it doesn't mean that you don't have to prove your ability to sustain yourself financially. For this you might need to show a proof of some amount that the country agrees upon. For example, for Germany this amounts to showing 8620 Euros. Since this is a huge amount, make sure that you have enough time to approach banks or financial advisors to show that much of amount in your bank account. The bank account might itself be in your name in the foreign country, as is the case in Germany.
+
+  * **The university has no tuition fee and you assistance**
+     If you have obtained some kinda of financial assistance such as a scholarship, then it is wiser to contact the consulate or go through their guidelines to find out what kind of document you need to present at the visa interview. Normally, it would be a letter from the organisation/university granting you assistance. Make sure to confirm from the consulate whether the scholarship/assistance is valid for the type of visa you are taking or not.
+
+  * **The university has a tuition fee and you have no assistance**
+     Students when applying to the universities in most of the countries are in this kind of situation. You need to make sure that you have the ability to show sustenance for a whole year of staying in the country of university. The consulate website will give you a better idea but normally it amounts to the combination of tuition fee that you need to pay per year and the living expenses of the city where the university is located.
+
+  * **The university has a tuition and you have assistanc**
+     This case is parallel to the case where you have no tuition fee but have assistance. Although the amount that you are getting from the assistance should be enough to help you sustain yourself in the country where you are applying for the visa after you have paid the tuition.
+
+  As said before, the visa interview depends highly on the country as well as the university where you are thinking of attending the university. The essence of this section is to make you aware that you need to start thinking about the finances before you take the visa interview and make sure that you have enough evidence to support the claim to sustain yourself in the foreign country.
