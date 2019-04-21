@@ -225,7 +225,9 @@ The above graphs show that our training goes on pretty smooth. The error is decr
 Since now we have trained and evaluated our model, its time to put it into action. First, we need to bring the test data file into the memory. With Pandas it is simple,
 
 {% highlight python %}
-test_data = pd.read_csv('/path~to~your~file/test.csv').values
+
+test_data = pd.read_csv('/path-to-your-file/test.csv').values
+
 {% endhighlight %}
 
 

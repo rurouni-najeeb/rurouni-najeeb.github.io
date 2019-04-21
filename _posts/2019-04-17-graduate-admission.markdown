@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Thoughts on Graduate Admission Process"
-subtitle: 
 permalink: /graduate/
 date:   2019-04-17 18:15:11 +0100
 categories: jekyll update
@@ -126,3 +125,6 @@ The finances pay a whole major part in getting a visa to the country where you w
      This case is parallel to the case where you have no tuition fee but have assistance. Although the amount that you are getting from the assistance should be enough to help you sustain yourself in the country where you are applying for the visa after you have paid the tuition.
 
   As said before, the visa interview depends highly on the country as well as the university where you are thinking of attending the university. The essence of this section is to make you aware that you need to start thinking about the finances before you take the visa interview and make sure that you have enough evidence to support the claim to sustain yourself in the foreign country.
+
+{% include disqus.html %}
+
