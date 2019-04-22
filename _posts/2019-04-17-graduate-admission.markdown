@@ -6,8 +6,13 @@ date:   2019-04-21 18:15:11 +0100
 categories: jekyll update
 comments: true
 ---
+
+.text-justify {
+  text-align: justify;
+}
+
 ## What this blog post is about?
-Graduate Admission Process is a daunting task requiring a great deal of effort, patience and sometimes money. The money part is not always true and there are always niches where you can go about saving a whole lot. Sometimes, if you are smart enough, you can practically get everything done with the smallest amount of investment as possible. Honestly, my story is pretty much the laterally inverted version of that but I hope that it can act as a subtle feedback mechanism for anyone who is trying to throw open doors of educating themselves abroad. This is an elaborate post regarding how and when I started to think about getting an education abroad, how I prepared myself to try to get into some of the great colleges and how I failed a bunch of times, my expectations and the real world equivalent of them and how I chose when there were stark choices available, both financially and opportunity wise. I hope this post will help you out to make an educated decision and put your priorities in order when you take *(most probably)* the most investing decision of life. If you want to know more about me, where to reach out and what I do [click here](https://najeeb97khan.github.io/about/).
+Graduate Admission Process is a daunting task requiring a great deal of effort, patience and sometimes money. The money part is not always true and there are always niches where you can go about saving a whole lot. Sometimes, if you are smart enough, you can practically get everything done with the smallest amount of investment as possible. Honestly, my story is pretty much the laterally inverted version of that but I hope that it can act as a subtle feedback mechanism for anyone who is trying to throw open doors of educating themselves abroad. This is an elaborate post regarding how and when I started to think about getting an education abroad, how I prepared myself to try to get into some of the great colleges and how I failed a bunch of times, my expectations and the real world equivalent of them and how I chose when there were stark choices available, both financially and opportunity wise. I hope this post will help you out to make an educated decision and put your priorities in order when you take *(most probably)* the most investing decision of life. If you want to know more about me, where to reach out and what I do [click here](https://najeeb97khan.github.io/about/).{: .text-justify}
 
 
 ## Getting Started
