@@ -6,6 +6,13 @@ date:   2019-04-21 18:15:11 +0100
 categories: jekyll update
 comments: true
 ---
+
+<style>
+  .text-justify{
+    text-align:justify;
+  }
+</style>
+
 ## What this blog post is about?
 Graduate Admission Process is a daunting task requiring a great deal of effort, patience and sometimes money. The money part is not always true and there are always niches where you can go about saving a whole lot. Sometimes, if you are smart enough, you can practically get everything done with the smallest amount of investment as possible. Honestly, my story is pretty much the laterally inverted version of that but I hope that it can act as a subtle feedback mechanism for anyone who is trying to throw open doors of educating themselves abroad. This is an elaborate post regarding how and when I started to think about getting an education abroad, how I prepared myself to try to get into some of the great colleges and how I failed a bunch of times, my expectations and the real world equivalent of them and how I chose when there were stark choices available, both financially and opportunity wise. I hope this post will help you out to make an educated decision and put your priorities in order when you take *(most probably)* the most investing decision of life. If you want to know more about me, where to reach out and what I do [click here](https://najeeb97khan.github.io/about/).
 {: style="text-align:justify;"}
@@ -35,6 +42,7 @@ Subsequently, I decided to look out for what it takes to get yourself in a posit
 * **Keep building stuff ... even when you feel like reinventing the wheel**
 
   As a general rule of thumb when applying for great institutions abroad is to have a motivation that makes you pursue your chosen field of study and the ability to express it with your actions. Every institution would ask you to either send them a Statement of Purpose (SoP) or to send them an essay delineating your motivation and past experiences. The best way to tackle this *rather intimidating* piece of text is to get yourself building stuff. If you are pursuing a computer science degree *(as I was)*, you might want to go around building interesting web/mobile applications that tackle some problem to better showcase your work or if you are from a field where you can't build stuff as easily as a computer programmer, you might just write out what you are learning new. Apart from giving you a solid understanding of the subject matter, it will be a great point of discussing your motivation in the SoP and might also lead to your work getting recognized. Perhaps, it might also give you an upper hand when it comes to getting opportunities. You might try to learn new technologies to solve problems around you which can be a soaring point to talk about in the SoP. Simply said, building things is the fastest way to learn and putting it to use to create tangible products that can be talked about. Another way is not to build products but rather *research*. This might require more patience as you go on a journey to read and study your chosen field of expertise. Make sure that if you are doing research, you bring it into existence with the help of a research paper or an article. These recognised articles (in conferences, journals etc.) can help you stand out in your profile eventually giving a better impression to the admission committee.
+  {: .text-justify}
 
 This section can be abbreviated simply by putting before yourself the principle of **E(xplore)-L(earn)-B(uild)**. This is not only limited to a good headstart for a successful application procedure but also if you want to make your sophomore years a better learning experience without blaming too much on the institutions in which you are studying. As a matter of fact, you should always keep talking about what you are learning with people like you *(internet is a great resource for that)* and even with the masters of the field. Who knows when you might meet someone who can help you out!
 {: style="text-align:justify;"}
